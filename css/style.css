@@ -34,17 +34,22 @@ hr{
 
 /* top nav bar under logo */
 
+
 #main_nav_under_logo{
+    list-style-type: none;
+    padding: 0;
     margin: 0;
     width: 100%;
-    backface-visibility: hidden;
-    text-align: center;
+    height: 2rem;
+    background-color: red;
+    
 }
 
 #main_nav_bar{
-    list-style-type: none;
     margin: 0;
     padding: 0;
     width: 100%;
+    height: 2rem;
     overflow: hidden;
+    
 }
