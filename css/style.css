@@ -4,6 +4,7 @@ html, body{
     width=100%
     font-size= 62.5%;
     box-sizing:border-box;
+    background-color: #edeeef;
     
 }
 
@@ -71,12 +72,32 @@ li{
     width= 80rem;
     height: 28.8rem;
     text-align: center;
-    background-color: #5a6d95; 
+    background-color: #5a6d95;
+    background-size: 50%;
 }
 
 #border_box_with_text{
     
+}
 
+article{
+     margin: 0;
+    padding: 0;
+    width: calc(100%2);
     
+}
+
+#img_left_of_aside{
+    margin: 0;
+    padding: 0;
+    width: 24rem;
+    height: 20rem;
     
+}
+
+aside{
+    margin: 0;
+    padding: 0;
+    width: 24rem;
+    height: 20rem;
 }
