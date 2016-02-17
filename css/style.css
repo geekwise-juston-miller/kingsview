@@ -41,8 +41,9 @@ hr{
     margin: 0;
     width: 100%;
     height: 2rem;
-    background-color: red;
-    
+    font-size: 1.4rem;
+    text-align: center;
+    outline-style: none;
 }
 
 #main_nav_bar{
@@ -50,6 +51,32 @@ hr{
     padding: 0;
     width: 100%;
     height: 2rem;
-    overflow: hidden;
+}
+li{
+    margin: 0.2rem;
+    padding: 0;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.white{
+    color: #ffffff;
+    
+}
+
+#pic_with_border{
+    
+    margin= 0;
+    padding= 0;
+    width= 80rem;
+    height: 28.8rem;
+    text-align: center;
+    background-color: #5a6d95; 
+}
+
+#border_box_with_text{
+    
+
+    
     
 }
